@@ -78,3 +78,5 @@ I understand my strengths and weaknesses and will notify you about any potential
 [<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />](#)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ProspDev&hide=issues&include_all_commits=true&count_private=true&&box_width=11&show_icons=true&theme=material-palenight)
+
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProspDev&card_width=250&layout=compact&theme=material-palenight)
