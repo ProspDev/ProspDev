@@ -1,4 +1,4 @@
-# Welcome! My GitHub Profile
+# Welcome to My GitHub Profile
 
 ## About Me
 I’m a full-stack developer with 6+ years specializing in Javascript, learning all aspects of the language from prototype inheritance, closure, modern & classic architecture design patterns, implement the latest standards, code optimization, and performance improvements.
@@ -6,9 +6,7 @@ I’m a full-stack developer with 6+ years specializing in Javascript, learning 
 I have created from scratch and improved many Web Applications, Backend APIs & services, worked in a variety of niches including eCommerce, Social Media Platforms, Data Visualizations, Event Applications, Enterprise Apps, SaaS Projects & B2B Applications.
 I understand my strengths and weaknesses and will notify you about any potential problems as soon as 'm aware of them. My primary concern is your project’s success and delivering quality work. I’m always learning new and better ways to accomplish my work and deliver better, more efficient and amazing products to you.
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ProspDev&hide=issues&include_all_commits=true&count_private=true&&box_width=11&show_icons=true&theme=material-palenight)
-
-## Reach out:
+## Contacting to me:
 [<img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />](https://github.com/ProspDev)
 [<img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />](https://mailto:prosper.shine0714@gmail.com)
 
@@ -79,3 +77,4 @@ I understand my strengths and weaknesses and will notify you about any potential
 [<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />](#)
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ProspDev&hide=issues&include_all_commits=true&count_private=true&&box_width=11&show_icons=true&theme=material-palenight)
