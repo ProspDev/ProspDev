@@ -7,7 +7,6 @@ I have created from scratch and improved many Web Applications, Backend APIs & s
 I understand my strengths and weaknesses and will notify you about any potential problems as soon as 'm aware of them. My primary concern is your project’s success and delivering quality work. I’m always learning new and better ways to accomplish my work and deliver better, more efficient and amazing products to you.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ProspDev&hide=issues&include_all_commits=true&count_private=true&&box_width=11&show_icons=true&theme=material-palenight)
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProspDev&card_width=250&layout=compact&theme=material-palenight)
 
 ## Reach out:
 [<img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />](https://github.com/ProspDev)
