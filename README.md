@@ -1,10 +1,32 @@
 # Welcome to My GitHub Profile
 
-## About Me
-I’m a full-stack developer with 8+ years specializing in Javascript, learning all aspects of the language from prototype inheritance, closure, modern & classic architecture design patterns, implement the latest standards, code optimization, and performance improvements.
- can start a new project for you or continue work on an existing one. I’m also happy to work with your current team or work on my own.
-I have created from scratch and improved many Web Applications, Backend APIs & services, worked in a variety of niches including eCommerce, Social Media Platforms, Data Visualizations, Event Applications, Enterprise Apps, SaaS Projects & B2B Applications.
-I understand my strengths and weaknesses and will notify you about any potential problems as soon as 'm aware of them. My primary concern is your project’s success and delivering quality work. I’m always learning new and better ways to accomplish my work and deliver better, more efficient and amazing products to you.
+I am a software engineer with up to ten years of professional experience in developing Web/Mobile applications for iOS and Android. I am skilled in all aspects of the full software development cycle, from requirements gathering and planning through development, release, and maintenance.
+
+I'm good at delivering blockchain & fintech applications from scratch.
+The whole web application including smart contracts, back-end, and front-end will be delivered in the best quality built with the latest technologies.
+
+I love accepting challenges and am equipped with the infrastructure to facilitate out-of-the-box services to my clients. Whether you are starting with a rough concept or already have extensive specifications and wireframes, I will work with you to turn your idea into a reality.
+
+Being a programmer myself, I have hands-on experience in frontend and backend development.
+
+✅ Languages
+React JS | Ionic | React Native | JavaScript | Java | Go | Kotlin | TypeScript | JavaScript | HTML5 | SQL | Swift | Objective-C | C# | HTML | CSS | XML | PHP | Bash | GraphQL | PHP | LARAVEL | ROR | JAVA | NodeJS | MEAN | MERN | CMS Firebase
+
+✅ Frameworks
+Spring Boot | Spring | OAuth 2 | JSON Web Tokens (JWT) | GRPC | Swagger |.NET | Bootstrap | Cordova | PhoneGap | Django | React Native
+
+✅Libraries/APIs
+REST API | Experian | Yodlee API Interface | REST APIs | Node.js | Slack API | Stripe | OpenID | MooTools | SWT | jQuery | React | Eclipse SWT | Stripe API | Facebook API | GitHub API | Twitter API | Google Places API | Google Play API
+
+✅ Platforms
+AWS Lambda | Android | Firebase | Google Cloud Platform (GCP) | iOS | Xamarin | Docker | Amazon Web Services (AWS) | | Eclipse | Apache | Unix | Blockchain | EPICS
+
+✅ Storage
+JSON | PostgreSQL | Memcached | Databases | NoSQL | Redis | Realm | MySQL | Cloud Firestore | Google Cloud | Elasticsearch | PL/SQL | MongoDB | Firebase | SQL Lite
+
+✅ Hands-on experience
+🔸 Android SDK/NDK, Gradle, Android Studio 🔸 Android Instant Apps 🔸 Amazon Fire TV + Android TV 🔸 Graphql APIs 🔸 Networking (Retrofit, oKHtpp, Volley) 🔸 Dependency Injection (Dagger, Dagger2) 🔸 Reactive Programming (RxJava, RxAndroid) 🔸 Native in-app purchase (Google In-app Billing, Google Payment API) 🔸 Push Messages (APNS, Onesignal, Parse, Urban Airship integration, etc.) 🔸 Git Management (GitHub, Bitbucket, Gitlab)
+
 
 ## Contacting to me:
 [<img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />](https://github.com/ProspDev)
