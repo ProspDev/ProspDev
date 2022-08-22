@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile
+# Welcome
 
 I am a software engineer with up to ten years of professional experience in developing Web/Mobile applications for iOS and Android. I am skilled in all aspects of the full software development cycle, from requirements gathering and planning through development, release, and maintenance.
 
