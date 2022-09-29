@@ -1,6 +1,6 @@
 # Welcome
 
-I am a software engineer with up to ten years of professional experience in developing Web/Mobile applications for iOS and Android. I am skilled in all aspects of the full software development cycle, from requirements gathering and planning through development, release, and maintenance.
+I am a software engineer with up to ten years of professional experience in developing Web/Mobile applications. I am skilled in all aspects of the full software development cycle, from requirements gathering and planning through development, release, and maintenance.
 
 I'm good at delivering blockchain & fintech applications from scratch.
 The whole web application including smart contracts, back-end, and front-end will be delivered in the best quality built with the latest technologies.
