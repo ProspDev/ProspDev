@@ -10,7 +10,7 @@ I love accepting challenges and am equipped with the infrastructure to facilitat
 
 ## Contacting to me:
 [<img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />](https://github.com/ProspDev)
-[<img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />](https://mailto:prosper.shine0714@gmail.com)
+[<img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />](https://mailto:prosper.shine0714@gmail.com) prosper.shine0714@gmail.com
 
 ## Working Platform
 [<img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />](#)
