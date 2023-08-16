@@ -78,5 +78,6 @@ I love accepting challenges and am equipped with the infrastructure to facilitat
 [<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />](#)
+[<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />](#)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ProspDev&hide=issues&include_all_commits=true&count_private=true&&box_width=11&show_icons=true&theme=material-palenight)
