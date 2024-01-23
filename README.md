@@ -1,6 +1,11 @@
 # Welcome
+<div align=center>
+<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+Web/Blockchain+Developer+%F0%9F%91%8B;Frontend+Engineer;Back-End+Engineer;Problem+Solver;" alt="Headline" />
+</div>
+<br />
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 
-I am a software engineer with up to ten years of professional experience in developing Web/Blockchain applications. I am skilled in all aspects of the full software development cycle, from requirements gathering and planning through development, release, and maintenance.
+Hi, I am a software engineer with up to ten years of professional experience in developing Web/Blockchain applications. I am skilled in all aspects of the full software development cycle, from requirements gathering and planning through development, release, and maintenance.
 
 I'm good at delivering blockchain & fintech applications from scratch.
 The whole web application including smart contracts, back-end, and front-end will be delivered in the best quality built with the latest technologies.
@@ -81,3 +86,8 @@ I love accepting challenges and am equipped with the infrastructure to facilitat
 [<img src="https://img.shields.io/badge/Render-00ab56?style=for-the-badge&logo=render&logoColor=white" />](#)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ProspDev&hide=issues&include_all_commits=true&count_private=true&&box_width=11&show_icons=true&theme=material-palenight)
+
+[<img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ProspDev&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="ProspDev" 
+    bg_color=#808080/>](#)
