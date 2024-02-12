@@ -34,7 +34,6 @@ I love accepting challenges and am equipped with the infrastructure to facilitat
 [<img src="https://img.shields.io/badge/React-593D88?style=for-the-badge&logo=react&logoColor=blue" />](#)
 [<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />](#)
-[<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/Socket.io-20232A?&style=for-the-badge&logo=Socket.io&logoColor=white" />](#)
@@ -45,7 +44,8 @@ I love accepting challenges and am equipped with the infrastructure to facilitat
 [<img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />](#)
 [<img src="https://img.shields.io/badge/Markdown-20232A?style=for-the-badge&logo=markdown&logoColor=white" />](#)
 
-### Frameworks
+### Frameworks And Libraries
+[<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/semantic%20ui%20react-35BDB2?style=for-the-badge&logo=semanticuireact&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />](#)
