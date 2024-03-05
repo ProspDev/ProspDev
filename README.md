@@ -11,7 +11,8 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 </div>
 
-Hi, I am a software engineer with up to ten years of professional experience in developing Web/Blockchain applications. I am skilled in all aspects of the full software development cycle, from requirements gathering and planning through development, release, and maintenance.
+Hi, I am a software engineer with up to ten years of professional experience in developing Web/Blockchain applications.
+I am skilled in all aspects of the full software development cycle, from requirements gathering and planning through development, release, and maintenance.
 
 I'm good at delivering blockchain & fintech applications from scratch.
 The whole web application including smart contracts, back-end, and front-end will be delivered in the best quality built with the latest technologies.
