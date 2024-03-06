@@ -17,7 +17,8 @@ I am skilled in all aspects of the full software development cycle, from require
 I'm good at delivering blockchain & fintech applications from scratch.
 The whole web application including smart contracts, back-end, and front-end will be delivered in the best quality built with the latest technologies.
 
-I love accepting challenges and am equipped with the infrastructure to facilitate out-of-the-box services to my clients. Whether you are starting with a rough concept or already have extensive specifications and wireframes, I will work with you to turn your idea into a reality.
+I love accepting challenges and am equipped with the infrastructure to facilitate out-of-the-box services to my clients.
+Whether you are starting with a rough concept or already have extensive specifications and wireframes, I will work with you to turn your idea into a reality.
 
 
 ## Contacting to me:
