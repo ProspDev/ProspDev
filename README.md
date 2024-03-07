@@ -2,6 +2,7 @@
 <div align=center>
 <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=700&height=50&lines=Hi+I'm+Web/Blockchain+Developer+%F0%9F%91%8B;Frontend+Engineer;Backend+Engineer;" alt="Headline" />
 </div>
+
 <br />
 <div style="display: flex">
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
